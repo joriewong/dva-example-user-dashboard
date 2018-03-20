@@ -29,7 +29,7 @@
       ]
     }
   },
-  "dllPlugin": {
+  "xdllPlugin": {
     "exclude": [
       "babel-runtime"
     ],
